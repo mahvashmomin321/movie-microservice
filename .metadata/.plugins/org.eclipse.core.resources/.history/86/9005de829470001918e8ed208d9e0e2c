@@ -1,0 +1,5 @@
+package com.capgemini.movierating;
+
+public class UserRating {
+
+}
